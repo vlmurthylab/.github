@@ -24,7 +24,7 @@ quantitative capability to widely available tests like the 12-lead ECG.
 |---|---|
 | [**ecgflow**](https://github.com/vlmurthylab/ecgflow) | Self-supervised foundation transformer for ECG-based assessment of cardiac and coronary function |
 | [pytorch-image-models-ecgflow](https://github.com/vlmurthylab/pytorch-image-models-ecgflow) | Fork of `timm` with 1D ECG input and self-supervised pretraining support, required by ECGFlow |
-| [vmtools](https://github.com/vlmurthylab/vmtools) | R helpers for cardiovascular epidemiology: PREVENT and PCE risk equations, insulin-resistance indices, spirometry predictions, HMDB lookups |
+| [vmtools](https://github.com/vlmurthylab/vmtools) | R helpers for cardiometabolic epidemiology: PREVENT and PCE risk equations, insulin-resistance indices, GLI spirometry predictions, HMDB lookups |
 | [murthylab-website](https://github.com/vlmurthylab/murthylab-website) | Source for [murthylab.org](https://murthylab.org): static HTML, publications generated from Zotero |
 
 ### Selected papers
