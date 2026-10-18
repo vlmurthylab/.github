@@ -8,14 +8,14 @@ of Cardiovascular Medicine at the University of Michigan, led by [Venk Murthy, M
 
 ### Research
 
-🟠 **Coronary vasomotor and microvascular dysfunction.** Quantifying impaired vasodilator function in
+<img src="https://raw.githubusercontent.com/vlmurthylab/.github/main/profile/dot-amber.png" width="12" height="12" alt=""> **Coronary vasomotor and microvascular dysfunction.** Quantifying impaired vasodilator function in
 vessels below the resolution of angiography with cardiac PET. About half of patients referred for
 stress testing have it despite normal perfusion imaging, and it predicts cardiac death.
 
-🔵 **Multiomic biomarkers and mechanistic inference.** Metabolomic, proteomic, and genetic signatures
+<img src="https://raw.githubusercontent.com/vlmurthylab/.github/main/profile/dot-cyan.png" width="12" height="12" alt=""> **Multiomic biomarkers and mechanistic inference.** Metabolomic, proteomic, and genetic signatures
 in longitudinal cohorts such as CARDIA, MESA, and the Framingham Heart Study, read for pathway as well as prediction.
 
-🟣 **AI and machine learning for imaging and risk.** Foundation models and deep learning that extend
+<img src="https://raw.githubusercontent.com/vlmurthylab/.github/main/profile/dot-violet.png" width="12" height="12" alt=""> **AI and machine learning for imaging and risk.** Foundation models and deep learning that extend
 quantitative capability to widely available tests like the 12-lead ECG.
 
 ### Code
