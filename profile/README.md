@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://murthylab.org"><img src="https://raw.githubusercontent.com/vlmurthylab/.github/main/profile/banner.png" alt="Murthy Lab — Teaching machines to diagnose what humans can't see" width="100%"></a>
+  <a href="https://murthylab.org"><img src="https://raw.githubusercontent.com/vlmurthylab/.github/main/profile/banner.png" alt="Teaching machines to diagnose what humans can't see. Coronary microvascular function · Multiomics · AI for imaging &amp; ECG" width="100%"></a>
 </p>
 
 We teach machines to use cardiac imaging, multiomic signatures, and ECGs to uncover mechanisms of
