@@ -24,7 +24,6 @@ quantitative capability to widely available tests like the 12-lead ECG.
 |---|---|
 | [**ecgflow**](https://github.com/vlmurthylab/ecgflow) | Self-supervised foundation transformer for ECG-based assessment of cardiac and coronary function (NEJM AI) |
 | [vmtools](https://github.com/vlmurthylab/vmtools) | R helpers for cardiometabolic epidemiology: PREVENT and PCE risk equations, insulin-resistance indices, spirometry predictions |
-| [murthylab-website](https://github.com/vlmurthylab/murthylab-website) | Source for [murthylab.org](https://murthylab.org), the Murthy Lab website |
 | [csl-styles](https://github.com/vlmurthylab/csl-styles) | Citation styles (CSL): NIH grant proposals with no hyperlinks, and compact styles for strict page limits |
 
 ### Selected papers
